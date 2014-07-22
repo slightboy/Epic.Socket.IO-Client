@@ -1,0 +1,11 @@
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\edge\double_edge.js
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\edge\edge.js
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\edge\x64\node.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\edge\x86\node.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\edge\x64\edge.node
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\edge\x86\edge.node
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\Epic.Socket.IO-Client.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\Epic.Socket.IO-Client.pdb
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Debug\EdgeJs.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\obj\Debug\Epic.Socket.IO-Client.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\obj\Debug\Epic.Socket.IO-Client.pdb

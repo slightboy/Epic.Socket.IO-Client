@@ -1,0 +1,11 @@
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\edge\double_edge.js
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\edge\edge.js
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\edge\x64\node.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\edge\x86\node.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\edge\x64\edge.node
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\edge\x86\edge.node
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\Epic.Socket.IO-Client.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\Epic.Socket.IO-Client.pdb
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\bin\Release\EdgeJs.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\obj\Release\Epic.Socket.IO-Client.dll
+E:\Work\20140722 Socket.IO-Client\Epic.Socket.IO-Client\obj\Release\Epic.Socket.IO-Client.pdb
